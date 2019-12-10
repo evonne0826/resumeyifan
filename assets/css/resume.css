@@ -790,11 +790,12 @@ label {
 #experience1font2{
 	position:relative;
 	top:190px;
- 	left:-250px;
+ 	left:-280px;
 	font-family:  Microsoft JhengHei;
 	font-size:15px;
 	color:#FFFFFF;
-	text-align:center;
+	z-index:5;
+	
 }
 #experience1font3{
 	position:relative;
